@@ -1,0 +1,275 @@
+
+
+Branch VirtualKeyboard
+
+
+
+
+
+
+
+
+commit c94160d4af9e0279d795dd518b2aa589fa0f1ac7 (HEAD -> VirtualKeyboard, origin/VirtualKeyboard)
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Mon May 9 22:25:30 2022 +0200
+
+    usuwanie liter jednym okiem
+
+commit 506dd2de22020f29668c76a2764c07b1e74cc571
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Mon May 9 22:00:09 2022 +0200
+
+    Optymalizacja
+
+commit e70c3a40961288a1171bcd9f1ce22c28ea82518d
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Mon May 9 21:14:47 2022 +0200
+
+    Zmiana funkcji mrugania na jedno oko
+
+commit 419567b50ebfb66ad95c0c4f36c6602d994d3d2b
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Tue Apr 12 00:57:21 2022 +0200
+
+:...skipping...
+commit c94160d4af9e0279d795dd518b2aa589fa0f1ac7 (HEAD -> VirtualKeyboard, origin/VirtualKeyboard)
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Mon May 9 22:25:30 2022 +0200
+
+    usuwanie liter jednym okiem
+
+commit 506dd2de22020f29668c76a2764c07b1e74cc571
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Mon May 9 22:00:09 2022 +0200
+
+    Optymalizacja
+
+commit e70c3a40961288a1171bcd9f1ce22c28ea82518d
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Mon May 9 21:14:47 2022 +0200
+
+    Zmiana funkcji mrugania na jedno oko
+
+commit 419567b50ebfb66ad95c0c4f36c6602d994d3d2b
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Tue Apr 12 00:57:21 2022 +0200
+
+    Optymalizacja kodu
+
+commit 132fe4c7a42eab81d9096c1871a5c2ec0548fd90
+Author: szchelzarn <matusikpatryk98@gmail.com>
+Date:   Mon Apr 11 03:00:46 2022 +0200
+
+    Implementacja funkcji usuwania liter
+
+commit 8496784853cbedb4f6019206c291db2d8c7b63f5
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Fri Apr 8 21:19:34 2022 +0200
+
+    dodanie klawisza kopiowania tekstu
+
+    dodanie klawisza dodawania tekstu oraz automatycznego przeniesienia na witrynę Google
+
+commit 531789f3ea346842f7684ec170872a4854fc6203
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Mon Apr 4 14:02:09 2022 +0200
+
+    Dodanie komentarzy do kodu programu
+
+commit c3282df268bbb204d8e83297d78660192fe35e29
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Sat Apr 2 16:28:50 2022 +0200
+
+    Podział na L/P, obrys oczu
+
+    Implementacja zadań pod dni otwarte na uczelni ;)
+
+commit 0225e124c50be62126b876ffca7ce16e6692100f
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Apr 1 20:55:15 2022 +0200
+
+    Dodanie dźwięku do projektu
+
+commit 45562893253f44ed2ff321c0e42085fd8802bf93
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Fri Apr 1 11:17:45 2022 +0200
+
+    Dodanie tablicy i wykrywanie naciśnięcia
+
+commit 7c00cf24bc9eb643d710356c1de6682173a8b81e
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Mon Mar 28 12:16:00 2022 +0200
+
+    Aktualizacja Podświetlania klawiszy
+
+commit 78724b75c2129aff09e6d980fce4e0e09b754c15
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Mon Mar 28 12:00:54 2022 +0200
+
+    Update ProjektUczelnia.py
+
+commit 2fd767f200be80e00fae0a967005bd3b8426f938
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Fri Mar 25 13:43:49 2022 +0100
+
+    PodświetlanieKlawisza
+
+commit 15cd0886086d8ee5e8e757fe7cc5e0e7d03d0120
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Mar 25 12:36:48 2022 +0100
+
+    Aktualizacja wirtualnej klawiatury
+
+commit 9ef2a518c9c252317a0e3eed521a2cca92e956f0
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Mar 25 11:43:36 2022 +0100
+
+    PodstawaKlawiatury
+
+commit 30d03b57770c0742720b66413377fe108d86fda4
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Sun Mar 20 17:11:30 2022 +0100
+
+
+
+
+
+
+
+branch master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+commit 135b745b19c7b182cafe19eac4370fc410bf9093 (HEAD -> master, origin/master, origin/HEAD)
+Merge: 253dcbd 0225e12
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Apr 1 20:57:45 2022 +0200
+
+    Merge pull request #3 from Vaxler2k/VirtualKeyboard
+
+    Virtual keyboard
+
+commit 0225e124c50be62126b876ffca7ce16e6692100f
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Apr 1 20:55:15 2022 +0200
+
+    Dodanie dźwięku do projektu
+
+commit 45562893253f44ed2ff321c0e42085fd8802bf93
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Fri Apr 1 11:17:45 2022 +0200
+
+    Dodanie tablicy i wykrywanie naciśnięcia
+
+commit 253dcbdcf1057327a4e3919a52c1f20ac41c830e
+:...skipping...
+commit 135b745b19c7b182cafe19eac4370fc410bf9093 (HEAD -> master, origin/master, origin/HEAD)
+Merge: 253dcbd 0225e12
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Apr 1 20:57:45 2022 +0200
+
+    Merge pull request #3 from Vaxler2k/VirtualKeyboard
+
+    Virtual keyboard
+
+commit 0225e124c50be62126b876ffca7ce16e6692100f
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Apr 1 20:55:15 2022 +0200
+
+    Dodanie dźwięku do projektu
+
+commit 45562893253f44ed2ff321c0e42085fd8802bf93
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Fri Apr 1 11:17:45 2022 +0200
+
+    Dodanie tablicy i wykrywanie naciśnięcia
+
+commit 253dcbdcf1057327a4e3919a52c1f20ac41c830e
+Merge: 8ce5b82 7c00cf2
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Mon Mar 28 12:16:54 2022 +0200
+
+    Merge pull request #2 from Vaxler2k/VirtualKeyboard
+
+    Virtual keyboard
+
+commit 7c00cf24bc9eb643d710356c1de6682173a8b81e
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Mon Mar 28 12:16:00 2022 +0200
+
+    Aktualizacja Podświetlania klawiszy
+
+commit 78724b75c2129aff09e6d980fce4e0e09b754c15
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Mon Mar 28 12:00:54 2022 +0200
+
+    Update ProjektUczelnia.py
+
+commit 2fd767f200be80e00fae0a967005bd3b8426f938
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Fri Mar 25 13:43:49 2022 +0100
+
+    PodświetlanieKlawisza
+
+commit 15cd0886086d8ee5e8e757fe7cc5e0e7d03d0120
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Mar 25 12:36:48 2022 +0100
+
+    Aktualizacja wirtualnej klawiatury
+
+commit 8ce5b8285a4a689197838524cec9fa0e0794a554
+Merge: 30d03b5 9ef2a51
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Mar 25 11:48:46 2022 +0100
+
+    Merge pull request #1 from Vaxler2k/VirtualKeyboard
+
+    PodstawaKlawiatury
+
+commit 9ef2a518c9c252317a0e3eed521a2cca92e956f0
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Mar 25 11:43:36 2022 +0100
+
+    PodstawaKlawiatury
+
+commit 30d03b57770c0742720b66413377fe108d86fda4
+Author: Adam-Szc <adamsz119@interia.pl>
+Date:   Sun Mar 20 17:11:30 2022 +0100
+
+    kierunek spojrzenia
+
+commit 8fc12b7ff427c517b794381d80b1e28919181cab
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Sat Mar 19 17:54:48 2022 +0100
+
+    Wykrywanie Spojrzenia
+
+commit 33c807fab7dfbced882d240c14a59b304053337e
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Fri Mar 18 17:37:51 2022 +0100
+
+    Wykrywanie Mrugania
+
+commit e3b1c7e79ece05a50cb24ef84d1d4ebae20ba6c1
+Author: szchelzarn <73278800+szchelzarn@users.noreply.github.com>
+Date:   Fri Mar 18 17:23:28 2022 +0100
+
+    wykrywanie drugiego oka
+
+commit e1ac546ccec696f63e0c72ab68f554f45ae3b0f6
+Author: Vaxler2k <73278816+Vaxler2k@users.noreply.github.com>
+Date:   Mon Mar 14 17:26:30 2022 +0100
+
+
